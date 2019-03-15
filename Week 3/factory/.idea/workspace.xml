@@ -2,25 +2,78 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="673b45f4-a360-4acf-a139-f61940862095" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nl/han/ica/oose/dea/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/nl/han/ica/oose/dea/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/singleton.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/src/main/java/nl/han/ica/oose/dea/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/src/main/java/nl/han/ica/oose/dea/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/src/test/java/nl/han/ica/oose/dea/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/target/classes/nl/han/ica/oose/dea/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/target/classes/nl/han/ica/oose/dea/Singleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toets1/opgave 3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toets1/opgave 3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toets1/opgave 3/src/main/java/nl/han/ica/oose/dea/MagazijnMedewerker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toets1/opgave 3/src/main/java/nl/han/ica/oose/dea/ThreadingMagazijn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toets1/opgave1e/pokwaliteit/src/test/java/nl/han/oose/svenmolhuijsen/MagazijnTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toets1/opgave2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toets1/opgave2/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toets1/opgave2/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toets1/opgave2/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toets1/opgave2/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toets1/opgave2/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toets1/opgave2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toets1/opgave2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toets1/opgave2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toets1/opgave2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toets1/opgave2/opgave2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toets1/opgave2/src/main/java/nl/han/ica/oose/dea/BibliotheekItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toets1/opgave2/src/main/java/nl/han/ica/oose/dea/BibliotheekMagazijn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toets1/opgave2/src/main/java/nl/han/ica/oose/dea/Boek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toets1/opgave2/src/main/java/nl/han/ica/oose/dea/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toets1/opgave2/src/main/java/nl/han/ica/oose/dea/TitelAreadyInUseException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Toets1/opgave2/src/main/java/nl/han/ica/oose/dea/TitelisemptyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 2/Vermenigvuldigers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adapterpattern/src/main/java/nl/han/ica/oose/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adapterpattern/src/main/java/nl/han/ica/oose/EmployeeCSV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adapterpattern/src/main/java/nl/han/ica/oose/EmployeeClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adapterpattern/src/main/java/nl/han/ica/oose/EmployeeDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adapterpattern/src/main/java/nl/han/ica/oose/EmployeeLdap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adapterpattern/src/main/java/nl/han/ica/oose/employeeAdapterCSV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adapterpattern/src/main/java/nl/han/ica/oose/employeeAdapterLdap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise-http-server-master/src/main/java/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise-http-server-master/src/main/java/nl/han/dea/http/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise-http-server-master/src/main/resources/pages/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 4/adapterpattern/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 4/adapterpattern/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 4/jee/src/main/java/nl/han/ica/oose/dea/Customerscontroller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 4/jee/src/main/java/nl/han/ica/oose/dea/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/Vermenigvuldigers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week 2/Vermenigvuldigers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/Vermenigvuldigers/Vermenigvuldigers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../singleton/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../singleton/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../singleton/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../singleton/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mavencheatsheet.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../mavencheatsheet.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template/src/main/java/nl/han/ica/oose/dea/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template/src/main/java/nl/han/ica/oose/dea/Audi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template/src/main/java/nl/han/ica/oose/dea/Bently.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template/src/main/java/nl/han/ica/oose/dea/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template/src/main/java/nl/han/ica/oose/dea/CarFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template/src/main/java/nl/han/ica/oose/dea/Opel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template/src/test/java/nl/han/ica/oose/dea/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template/target/classes/nl/han/ica/oose/dea/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template/target/classes/nl/han/ica/oose/dea/Audi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template/target/classes/nl/han/ica/oose/dea/Bently.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template/target/classes/nl/han/ica/oose/dea/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template/target/classes/nl/han/ica/oose/dea/CarFactory$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template/target/classes/nl/han/ica/oose/dea/CarFactory$CarType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template/target/classes/nl/han/ica/oose/dea/CarFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template/target/classes/nl/han/ica/oose/dea/Opel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template/target/surefire-reports/TEST-nl.han.ica.oose.dea.AppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template/target/surefire-reports/nl.han.ica.oose.dea.AppTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template/target/test-classes/META-INF/template.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../template/target/test-classes/nl/han/ica/oose/dea/AppTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,8 +87,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/nl/han/ica/oose/dea/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="162">
+              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -52,11 +105,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="835" />
-    <option name="height" value="555" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -64,6 +116,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -114,27 +167,19 @@
             <path>
               <item name="factory" type="b2602c69:ProjectViewProjectNode" />
               <item name="factory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="factory" type="b2602c69:ProjectViewProjectNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550533045111" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../patterntemplates/factory/template" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -162,16 +207,18 @@
       <updated>1550532990041</updated>
       <workItem from="1550532994214" duration="63000" />
       <workItem from="1550533175695" duration="47000" />
+      <workItem from="1552473006804" duration="10000" />
+      <workItem from="1552480870898" duration="81000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110000" />
+    <option name="totallyTimeSpent" value="201000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5367545" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -208,8 +255,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/nl/han/ica/oose/dea/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="162">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
         </state>
       </provider>
     </entry>
